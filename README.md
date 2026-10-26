@@ -2,6 +2,18 @@
 
 **Usa modelos de Hugging Face sin descargarlos.** Pega una URL o `autor/modelo`, descubre Spaces y proveedores, compara su disponibilidad y utiliza APIs Gradio compatibles desde una interfaz generada automáticamente.
 
+## Galería
+
+<table>
+<tr>
+<td align="center" valign="top"><img src="docs/screenshots/01-inicio.png" alt="Inicio y búsqueda de modelos" width="360"><br><sub>Inicio y búsqueda de modelos</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/02-descubrimiento.png" alt="Resultados de descubrimiento" width="360"><br><sub>Resultados de descubrimiento</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="docs/screenshots/03-ejecutor.png" alt="Formulario del ejecutor" width="360"><br><sub>Formulario del ejecutor</sub></td>
+</tr>
+</table>
+
 Next.js 16 · React 19 · TypeScript · Tailwind CSS 4. Sin Python, base de datos ni runtime de modelos.
 
 ## Arranque
