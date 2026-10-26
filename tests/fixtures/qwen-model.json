@@ -1,0 +1,89 @@
+{
+  "_id": "6aa76e4e82b01847860c8406",
+  "id": "Qwen/Qwen-Image-2.1",
+  "private": false,
+  "pipeline_tag": "text-to-image",
+  "library_name": "diffusers",
+  "tags": [
+    "diffusers",
+    "safetensors",
+    "qwen",
+    "image-generation",
+    "image-editing",
+    "rgba",
+    "text-to-image",
+    "license:other",
+    "diffusers:QwenImage21Pipeline",
+    "region:us"
+  ],
+  "downloads": 183,
+  "likes": 496,
+  "modelId": "Qwen/Qwen-Image-2.1",
+  "author": "Qwen",
+  "sha": "b3179ad355be050328e483a9dfdd9e60cd62adfa",
+  "lastModified": "2026-09-20T09:41:05.000Z",
+  "gated": false,
+  "disabled": false,
+  "model-index": null,
+  "config": { "diffusers": { "_class_name": "QwenImage21Pipeline" } },
+  "cardData": {
+    "license": "other",
+    "license_name": "qwen-research",
+    "license_link": "LICENSE",
+    "pipeline_tag": "text-to-image",
+    "tags": ["diffusers", "qwen", "image-generation", "image-editing", "rgba"]
+  },
+  "siblings": [
+    { "rfilename": ".gitattributes" },
+    { "rfilename": "LICENSE" },
+    { "rfilename": "README.md" },
+    { "rfilename": "model_index.json" },
+    { "rfilename": "processor/added_tokens.json" },
+    { "rfilename": "processor/chat_template.jinja" },
+    { "rfilename": "processor/merges.txt" },
+    { "rfilename": "processor/preprocessor_config.json" },
+    { "rfilename": "processor/special_tokens_map.json" },
+    { "rfilename": "processor/tokenizer.json" },
+    { "rfilename": "processor/tokenizer_config.json" },
+    { "rfilename": "processor/video_preprocessor_config.json" },
+    { "rfilename": "processor/vocab.json" },
+    { "rfilename": "scheduler/scheduler_config.json" },
+    { "rfilename": "text_encoder/config.json" },
+    { "rfilename": "text_encoder/generation_config.json" },
+    { "rfilename": "text_encoder/model-00001-of-00004.safetensors" },
+    { "rfilename": "text_encoder/model-00002-of-00004.safetensors" },
+    { "rfilename": "text_encoder/model-00003-of-00004.safetensors" },
+    { "rfilename": "text_encoder/model-00004-of-00004.safetensors" },
+    { "rfilename": "text_encoder/model.safetensors.index.json" },
+    { "rfilename": "transformer/config.json" },
+    {
+      "rfilename": "transformer/diffusion_pytorch_model-00001-of-00002.safetensors"
+    },
+    {
+      "rfilename": "transformer/diffusion_pytorch_model-00002-of-00002.safetensors"
+    },
+    {
+      "rfilename": "transformer/diffusion_pytorch_model.safetensors.index.json"
+    },
+    { "rfilename": "vae/config.json" },
+    { "rfilename": "vae/diffusion_pytorch_model.safetensors" }
+  ],
+  "spaces": [
+    "directedbykobyperez/Qwen-Image-2.1-Create",
+    "RioShiina/ImageGen",
+    "akhaliq/Qwen-Image-2.1",
+    "hugging-apps/qwen-image-2-1",
+    "baka999/qwen-image-2.1",
+    "jing96963/image999",
+    "sakurairoha/Qwen-Image-2.1",
+    "BlueSkyXN/Qwen-Image-2.1-studio",
+    "alperugurcan/gimme-image",
+    "peguero/qwen-image-2-1-demo",
+    "luthkyndir/Qwen-Image-2.1-Create",
+    "abdullahceylan/qwen-image-2.1",
+    "kingboy123/Qwen-Image-2.1-Demo"
+  ],
+  "createdAt": "2026-09-14T03:47:26.000Z",
+  "safetensors": { "parameters": { "BF16": 7115124736 }, "total": 7115124736 },
+  "usedStorage": 47357320470
+}
